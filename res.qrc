@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="bg">res/bg.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="move_points">res/icons/folder-publicshare.svg</file>
+        <file alias="open_image">res/icons/image-x-generic.svg</file>
+        <file alias="open_shape">res/icons/x-office-drawing.svg</file>
+        <file alias="add_points">res/icons/list-add.svg</file>
+        <file alias="move_shape">res/icons/x-office-drawing-template.svg</file>
+        <file alias="finalize">res/icons/system-software-installer.svg</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="start">res/images/image_start.png</file>
+    </qresource>
+</RCC>
